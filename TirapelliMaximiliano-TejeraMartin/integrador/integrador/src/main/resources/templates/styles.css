@@ -1,0 +1,30 @@
+/* Estilos CSS para las secciones y botones */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+#pacientes-section,
+#odontologos-section,
+#turnos-section {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+#buscar-paciente,
+#buscar-odontologo,
+#buscar-turno {
+    margin-top: 10px;
+}
+
+#buscar-paciente-input,
+#buscar-odontologo-input,
+#buscar-turno-input {
+    margin-right: 10px;
+}
